@@ -1,0 +1,45 @@
+.header {
+    text-align: center;
+    text-decoration: underline;
+}
+
+.block {
+    margin: 10px;
+}
+
+.row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.photo {
+    border-radius: 50%;
+    padding: 10px;
+}
+
+.heading {
+    text-decoration: underline;
+}
+
+.resume {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border: 1px solid black;
+    width: 600px;
+    background: rgb(204, 190, 190);
+}
+
+body {
+    display: flex;
+    justify-content: center;
+}
+
+.red {
+    background: red;
+}
+
+.green {
+    background: green;
+}
